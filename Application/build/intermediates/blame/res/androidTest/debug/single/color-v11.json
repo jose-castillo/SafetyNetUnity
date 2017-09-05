@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/777e94bc22b72c80b60bc22dce4398bdd873d399/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/777e94bc22b72c80b60bc22dce4398bdd873d399/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/jose.castillo/.android/build-cache/4ada6b9b7ad0e3de14bd689709b828a6b7132d0a/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

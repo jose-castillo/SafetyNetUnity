@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

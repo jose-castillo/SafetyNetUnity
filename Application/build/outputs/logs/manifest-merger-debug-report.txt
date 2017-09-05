@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:18:1-26:12
+	package
+		ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:19:11-56
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:21:11-36
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:20:11-34
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/jose.castillo/.android/build-cache/52333684df917cbab67698a36fec54b4a896c763/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/969e3ae980d156ba99d7ba799e03e431dd6b6d5b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/a40ea7b5c836a47e744b370c4b8df448b3d45d90/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /Users/jose.castillo/.android/build-cache/d305ea390b78eef5ab4f4da6656cf43526516134/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/jose.castillo/.android/build-cache/481002beef5fa876a3b03538c7d208017a448638/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jose.castillo/.android/build-cache/a85267728e8a1102567bade57c7d9acfdedff286/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jose.castillo/.android/build-cache/b7e93d86c5e5cb0e951156d5614d83ccef341ce2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jose.castillo/.android/build-cache/ffe9ce89f3d39fd904e0cefea5a025e4cc28c5a1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jose.castillo/.android/build-cache/837cefe3536fdfdc59ad1807f14668707e1d6b4f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jose.castillo/.android/build-cache/af52f42ebeb3c868d096c1febed7b34b7d90452a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jose.castillo/.android/build-cache/6591e5b6caf4b3a98d4d5a4975fe2642c005dbdf/output/AndroidManifest.xml:29:5-20
+uses-sdk
+INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/jose.castillo/.android/build-cache/52333684df917cbab67698a36fec54b4a896c763/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/969e3ae980d156ba99d7ba799e03e431dd6b6d5b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/a40ea7b5c836a47e744b370c4b8df448b3d45d90/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /Users/jose.castillo/.android/build-cache/d305ea390b78eef5ab4f4da6656cf43526516134/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/jose.castillo/.android/build-cache/481002beef5fa876a3b03538c7d208017a448638/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jose.castillo/.android/build-cache/a85267728e8a1102567bade57c7d9acfdedff286/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jose.castillo/.android/build-cache/b7e93d86c5e5cb0e951156d5614d83ccef341ce2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jose.castillo/.android/build-cache/ffe9ce89f3d39fd904e0cefea5a025e4cc28c5a1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jose.castillo/.android/build-cache/837cefe3536fdfdc59ad1807f14668707e1d6b4f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jose.castillo/.android/build-cache/af52f42ebeb3c868d096c1febed7b34b7d90452a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jose.castillo/.android/build-cache/6591e5b6caf4b3a98d4d5a4975fe2642c005dbdf/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/jose.castillo/.android/build-cache/52333684df917cbab67698a36fec54b4a896c763/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/969e3ae980d156ba99d7ba799e03e431dd6b6d5b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jose.castillo/.android/build-cache/a40ea7b5c836a47e744b370c4b8df448b3d45d90/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jose.castillo/.android/build-cache/a85267728e8a1102567bade57c7d9acfdedff286/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jose.castillo/.android/build-cache/b7e93d86c5e5cb0e951156d5614d83ccef341ce2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jose.castillo/.android/build-cache/ffe9ce89f3d39fd904e0cefea5a025e4cc28c5a1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jose.castillo/.android/build-cache/837cefe3536fdfdc59ad1807f14668707e1d6b4f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jose.castillo/.android/build-cache/af52f42ebeb3c868d096c1febed7b34b7d90452a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jose.castillo/.android/build-cache/6591e5b6caf4b3a98d4d5a4975fe2642c005dbdf/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/AndroidManifest.xml:20:20-65

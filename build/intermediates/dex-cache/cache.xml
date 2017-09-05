@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/969e3ae980d156ba99d7ba799e03e431dd6b6d5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_c52b2ed215de8682571f4d6380ece75a3191958e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/a9cc52accbc2df29608a3c39d8aca52a81b7dba0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_f5cef87b2ad6c229a9e07514d3e74396700a80b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/e97102752d97d3cfb00dd8ee96c9a844eaaa1c58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_5023e57d6222a26fdabbdc5180b0d034db7aacca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/481002beef5fa876a3b03538c7d208017a448638/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_76b11fd2ca3a0fa12ca15c82629c1050ceea23ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/52333684df917cbab67698a36fec54b4a896c763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_a52aea4c5cdea2b2826150a93addd90c9f3945aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/ffe9ce89f3d39fd904e0cefea5a025e4cc28c5a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_991588f4f03e1660007f2ba9cb4fe6bc497667c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/837cefe3536fdfdc59ad1807f14668707e1d6b4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_8f3e416e4f6cd2b11235f184843d8241dec37ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/6591e5b6caf4b3a98d4d5a4975fe2642c005dbdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_6638d3dc6d092ef7c6572d12a9402de08184701d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/a40ea7b5c836a47e744b370c4b8df448b3d45d90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_c5e15b12b0fa78b681adc42f9e3097195eae78b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f16d9491b70639bd96c7fcdc48124db475d3f787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/c37c8c8da8fca9c6a3a8c331497a5b77c38bc6c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_86cd4f5a553711787e5cccdfa0593b63aa626050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/d305ea390b78eef5ab4f4da6656cf43526516134/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_337c6757e445982ba29699945cd1562d9ad3dbea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/a85267728e8a1102567bade57c7d9acfdedff286/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_ea5ced50682b5410d5ed1b9ba84ba71e96a5a9ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/b7e93d86c5e5cb0e951156d5614d83ccef341ce2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_dc58563195e0d7fdc9ccd350c0715cb262fa1870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/f9d2050ce05009740e211537140127b99ffeacc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_fe282f0da3f3b84d89aa268e648bae3c14f770ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jose.castillo/.android/build-cache/af52f42ebeb3c868d096c1febed7b34b7d90452a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/pre-dexed/debug/classes_6ace1fbc7f6b5d14b9996cf61158cb4e70b510b9.jar" />
+    </item>
+
+</items>
