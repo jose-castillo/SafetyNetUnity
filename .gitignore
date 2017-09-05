@@ -1,0 +1,6 @@
+.gradle
+.idea
+Application/build/intermediates
+Application.iml
+build/android-profile
+SafetyNetUnityPlugin.iml
