@@ -4,6 +4,10 @@
         "source": "/Users/jose.castillo/.android/build-cache/009485f355f74e7e141091c29cb3094a6dee9f7c/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/Users/jose.castillo/SafetyNetUnityPlugin/Application/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/56183ea56e08ec4c3a83b99a7b5ca33ead3a4c5d/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/jose.castillo/.android/build-cache/777e94bc22b72c80b60bc22dce4398bdd873d399/output/res/color/abc_primary_text_material_light.xml"
     },
@@ -90,6 +94,10 @@
     {
         "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_tint.xml",
         "source": "/Users/jose.castillo/.android/build-cache/009485f355f74e7e141091c29cb3094a6dee9f7c/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/jose.castillo/SafetyNetUnityPlugin/Application/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/jose.castillo/.android/build-cache/56183ea56e08ec4c3a83b99a7b5ca33ead3a4c5d/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/jose.castillo/Downloads/android-play-safetynet-master/client/java/SafetyNetSample/Application/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
